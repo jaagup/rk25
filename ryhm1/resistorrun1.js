@@ -9,4 +9,4 @@ var Resistor = /** @class */ (function () {
     return Resistor;
 }());
 var r1 = new Resistor(220);
-console.log(r1.getCurrent(5));
+console.log(r1.getCurrent(15));
